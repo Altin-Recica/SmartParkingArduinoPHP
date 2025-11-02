@@ -4,7 +4,7 @@ This project is an implementation of a smart parking system using ESP32 and vari
 
 ## Live Video Demo
 
-[![Demo][([https://user-images.githubusercontent.com/84501094/158832059-2c38246a-ee87-4d1b-a5ea-6ecb2f757b86.png](https://www.youtube.com/watch?v=8t4GbDiHO9Q))](https://www.youtube.com/watch?v=8t4GbDiHO9Q)](https://www.youtube.com/watch?v=8t4GbDiHO9Q)
+![Demo](https://www.youtube.com/watch?v=8t4GbDiHO9Q)
 
 ## System Diagram
 
